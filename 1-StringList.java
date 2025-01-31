@@ -21,4 +21,6 @@ import java.util.*;
         // get the size of the list
         System.out.println(list.size());
     }
+    //Option 2: 
+    int n=10;
 }
